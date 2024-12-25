@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tuesday</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="dharmik">Dharmik</string>
+    <string name="Submit">Submit</string>
+    <string name="my_name_is_dharmik">My name is dharmik</string>
+</resources>
